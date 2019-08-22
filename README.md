@@ -14,4 +14,4 @@ Linux users should see the [wxPython website](https://wxpython.org/) for install
 
 The code for the PDF GUI Utility is from my book, [Creating Applications with wxPython](https://leanpub.com/creatingapplicationswithwxpython/).
 
-<a href="https://leanpub.com/creatingapplicationswithwxpython/"><img src="https://www.blog.pythonlibrary.org/wp-content/uploads/2019/01/creating_wxpython_apps_thumb.jpg" alt="Creating GUI Applications with wxPython" align="right"></a>
+<a href="https://leanpub.com/creatingapplicationswithwxpython/"><img src="https://www.blog.pythonlibrary.org/wp-content/uploads/2019/01/creating_wxpython_apps_thumb.jpg" alt="Creating GUI Applications with wxPython" align="center"></a>
