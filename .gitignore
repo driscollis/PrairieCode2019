@@ -56,3 +56,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+\.ipynb_checkpoints/
+
+screenshots/\.DS_Store
+
+\.DS_Store
