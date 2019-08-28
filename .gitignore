@@ -64,3 +64,5 @@ screenshots/\.DS_Store
 \.DS_Store
 
 *.pdf
+*.wpr
+*.wpu
