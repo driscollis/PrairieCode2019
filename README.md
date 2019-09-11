@@ -15,3 +15,5 @@ Linux users should see the [wxPython website](https://wxpython.org/) for install
 The code for the PDF GUI Utility is from my book, [Creating Applications with wxPython](https://leanpub.com/creatingapplicationswithwxpython/).
 
 <a href="https://leanpub.com/creatingapplicationswithwxpython/"><img src="https://www.blog.pythonlibrary.org/wp-content/uploads/2019/01/creating_wxpython_apps_thumb.jpg" alt="Creating GUI Applications with wxPython" align="center"></a>
+
+You can also read about the utility on my blog in the article, [wxPython – Creating a PDF Merger / Splitter Utility](https://www.blog.pythonlibrary.org/2019/09/10/wxpython-creating-a-pdf-merger-splitter-utility/)
