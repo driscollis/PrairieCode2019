@@ -2,6 +2,8 @@
 
 This repository is for a talk I am giving at [Prairie Code 2019](https://prairiecode.amegala.com/).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/driscollis/PrairieCode2019/master)
+
 To use the code in this repo, you will need to do the following:
 
 `pip install reportlab pypdf2`
