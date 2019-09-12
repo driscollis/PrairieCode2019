@@ -8,9 +8,13 @@ To use the code in this repo, you will need to do the following:
 
 `pip install reportlab pypdf2`
 
+I have covered ReportLab in detail in my book, [ReportLab: PDF Processing with Python](https://leanpub.com/reportlab/). This book also covers PyPDF2, pdfrw and several other PDF related libraries for Python:
+
+<a href="https://leanpub.com/reportlab/"><img src="http://www.blog.pythonlibrary.org/wp-content/uploads/2018/01/reportlab_python_thumb.png" alt="ReportLab: PDF Processing with Python" align="center"></a>
+
 If you'd like to use the included wxPython GUI application, you will need to also install wxPython 4:
 
-`pip install reportlab wxpython`
+`pip install wxpython`
 
 Linux users should see the [wxPython website](https://wxpython.org/) for installation issues should any arise.
 
